@@ -1,0 +1,19 @@
+{
+  "name": "arith26022020jp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayaprakash2017/nodedemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayaprakash2017/nodedemo/issues"
+  },
+  "homepage": "https://github.com/jayaprakash2017/nodedemo#readme"
+}
